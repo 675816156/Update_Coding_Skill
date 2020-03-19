@@ -1,0 +1,8 @@
+Instead of comments provided as side notes to source code a literate 
+program contains the explanation explanation of concepts on each level, with lower 
+level concepts deferred to their appropriate place, which allows for better 
+communication of thought. the The snippets of the literate wc above show 
+how an explanation of the program and its it source code are interwoven. 
+Such exposition of ideas creates the flow of thought that is like a literary 
+work. Knuth famously wrote a a "novel" which explains the code of the 
+computer strategy game Colossal Cave Adventure, perfectly readable.

@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "istream": "cpp",
+        "ctype.h": "c"
+    },
+    "editor.formatOnSave": true,
+    "clang-format.executable": "C:\\Program Files\\LLVM\\bin\\clang-format.exe",
+    "checkpatch.checkpatchPath": "${workspaceFolder}/checkpatch.pl",
+    "checkpatch.checkpatchArgs": [
+        "--codespellfile ${workspaceFolder}/spelling.txt",
+        "--strict",
+        "--no-tree",
+        "-f"
+    ],
+    "checkpatch.exclude": [
+        ".git",
+        "*.o"
+    ]
+}
