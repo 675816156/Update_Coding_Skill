@@ -15,5 +15,6 @@
     "checkpatch.exclude": [
         ".git",
         "*.o"
-    ]
+    ],
+    "files.trimTrailingWhitespace": true
 }
